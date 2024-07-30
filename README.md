@@ -1,3 +1,5 @@
+Spectroscopy-based Machine Learning models for monitoring of Fucoxanthin Productivity and Cell Growth in Phaeodactylum tricornutum cultures
+
 This repository includes the data set generated from the monitoring of P. tricornutum cultivations through Cytometry, HPLC, 2D-fluorescence and Absorbance.
 
 The data set generated in this work is organized into 6 dataframes (.pkl).
