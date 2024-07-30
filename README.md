@@ -1,5 +1,6 @@
 **Spectroscopy-based Machine Learning models for monitoring of Fucoxanthin Productivity and Cell Growth in Phaeodactylum tricornutum cultures**
 
+![PT-fucoFromSpec](https://github.com/user-attachments/assets/9aac9016-9952-4cc3-be15-b0f9e0e818e3)
 
 This repository includes the data set generated from the monitoring of P. tricornutum cultivations through Cytometry, HPLC, 2D-fluorescence and Absorbance. There are also two folders containing the scripts.
 
