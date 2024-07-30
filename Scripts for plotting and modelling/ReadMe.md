@@ -1,7 +1,9 @@
 **Several python scripts were developed in-house with purposes of data importation, handling and plotting, statistical and multivariate analysis, and machine learning regression.**
 
 Description for the python script files developed in-house
+
 File	Description
+
 scrip_ML_PTax.py	Script for loading the data set and applying ML algorithms together with spectral variable selection methods and data pre-processing transformations
 
 allspectralelement_linearReg.py	Script for loading the data set and applying single spectral element linear regression to all elements of the spectrum
