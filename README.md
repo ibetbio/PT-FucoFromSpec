@@ -8,6 +8,7 @@ The data set generated in this work is organized into 6 dataframes (.pkl).
 
 These include for all observations (i.e., culture samples) fluorescence and absorbance data, standard analytical data, and information data (i.e., date, assay type, etc.).
 
+
 **Description for the data set excel worksheet files**
 
 File -	Description
@@ -26,6 +27,7 @@ no3po4data.pkl	- Contains NO3 and PO4 measurements obtained from the sample supe
 
 
 In this work, several python scripts were developed in-house with purposes of data importation, handling and plotting, statistical and multivariate analysis, and machine learning regression. The scripts are available for consultation.
+
 
 **Description for the scripts**
 
